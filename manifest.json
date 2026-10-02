@@ -1,0 +1,11 @@
+{
+  "name": "elskieSoundPack",
+  "version_number": "1.0",
+  "website_url": "https://github.com/elskieuwu/elskie-sound-pack",
+  "description": "elskie sound replacement pack. me. yeah. and what of it, huh?",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "no00ob-LCSoundTool-1.5.1",
+    "Clementinise-CustomSounds-2.3.2"
+  ]
+}
