@@ -1,7 +1,7 @@
 {
   "name": "elskieSoundPack",
   "version_number": "1.0",
-  "website_url": "https://github.com/elskieuwu/elskie-sound-pack",
+  "website_url": "https://github.com/elskieuwu/elskieSoundPack",
   "description": "elskie sound replacement pack. me. yeah. and what of it, huh?",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305",
